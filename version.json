@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "changelog": "- Novos Templates Lendários 👑: Adicionado suporte automático para os Deuses Egípcios (Slifer the Sky Dragon, The Winged Dragon of Ra e Obelisk the Tormentor). Basta digitar o nome da carta para o template carregar instantaneamente. \n- Corrigidos pequenos erros de interface.\n- Organização de Arquivos 📁: Agora, todas as cartas geradas são salvas automaticamente na pasta dedicada CARDS/, mantendo seu diretório principal limpo.",
-  "download_url": "https://github.com/adalbertofilhoo/yugiohcardmaker/releases/download/v1.0.5/yugioh_card_maker.exe"
+  "version": "1.0.6",
+  "changelog": "- Nova Funcionalidade 📂: Adicionado botão 'Abrir Pasta de Cartas' para acesso rápido aos seus arquivos gerados.\n- Novos Templates Lendários 👑: Suporte automático para os Deuses Egípcios (Slifer, Ra e Obelisk).\n- Organização de Arquivos 📁: Salvamento automático na pasta dedicada CARDS/.\n- Melhorias de Estabilidade: Corrigidos pequenos erros de interface e caminhos de diretório.",
+  "download_url": "https://github.com/adalbertofilhoo/yugiohcardmaker/releases/download/v1.0.6/yugioh_card_maker.exe"
 }
