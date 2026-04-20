@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "changelog": "- Artes Alternativas 🎨: Agora você pode escolher entre diferentes artes oficiais diretamente da API YGOPRODeck.\n- Novo Painel de Fontes ⚙️: Personalização total de fontes, tamanhos e traçados (stroke) em uma janela dedicada.\n- Centralização das ⭐ (Anime): opção para centralizar as estrelas/nível de forma simétrica, como no anime.\n- Salvar Preferências 💾: Suas configurações de texto e posição agora são salvas automaticamente.\n- Melhora na Usabilidade: Janelas centralizadas e interface mais moderna com CustomTkinter.\n- Correções: Ajustes precisos no posicionamento de ATK/DEF e renderização de textos.",
   "download_url": "https://github.com/adalbertofilhoo/yugiohcardmaker/releases/download/v1.0.9/yugioh_card_maker.exe",
   "sha256": "A524DEA95E57AAAF44AB4AA4C7F97E090AE192C9E0C8F4CA33222A3C9BB2CEB7"
