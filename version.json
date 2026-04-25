@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "changelog": "- Artes Alternativas 🎨: Agora você pode escolher entre diferentes artes oficiais diretamente da API YGOPRODeck.\n - Centralização das ⭐ (Anime): opção para centralizar as estrelas/nível de forma simétrica, como no anime.\n- Salvar Preferências 💾: Suas configurações de texto e posição agora são salvas automaticamente.\n- Melhora na Usabilidade: Janelas centralizadas e interface mais moderna com CustomTkinter.\n- Correções: Ajustes precisos no posicionamento da interface.",
-  "download_url": "https://github.com/adalbertofilhoo/yugiohcardmaker/releases/download/v1.1.0/yugioh_card_maker.exe",
-  "sha256": "061B93B725648EDB76A0332A301D779DFC2572E8FBC2C66726918F5847C8F206"
+  "download_url": "https://github.com/adalbertofilhoo/yugiohcardmaker/releases/download/v1.1.1/yugioh_card_maker.exe",
+  "sha256": "A49494F56B68047314440053E4FFC472B245915473E56ED6E7CEB89AEAC64728"
 }
